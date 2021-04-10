@@ -15,3 +15,17 @@ deps
 .rebar3
 _build/
 _checkouts/
+_*
+*.swp
+*.swo
+.erlang.cookie
+ebin
+log
+logs
+rebar.lock
+.idea
+*.iml
+rebar3.crashdump
+*~
+
+.vscode/
